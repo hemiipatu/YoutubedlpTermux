@@ -18,7 +18,7 @@ The script creates the following directories on Termux:
  - **_/data/data/com.termux/files/home/bin_** | Used to store [termux-url-opener](https://github.com/hemiipatu/YoutubedlpTermux/blob/master/termux-url-opener).
   
 ## How to install
- - [Instructions for Android](insertlink)
+ - [Instructions for Android](https://github.com/hemiipatu/YoutubedlpTermux/wiki/Installation-on-Android.)
 
 ## Supporting YouTubedlpOnTermux project
 If you are intrested in supporting the project you can:
