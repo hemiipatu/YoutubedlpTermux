@@ -87,10 +87,10 @@ sleep 1
 
 sleep 1.5
   echo -e $Y$L"\n Getting files... \n"$N
-    rm -rf /data/data/com.termux/files/home/bin/youtubedlp-url-opener
-      wget https://raw.githubusercontent.com/hemiipatu/YoutubedlpTermux/master/youtubedlp-url-opener -P /data/data/com.termux/files/home/bin
+    rm -rf /data/data/com.termux/files/home/bin/termux-url-opener
+      wget https://raw.githubusercontent.com/hemiipatu/YoutubedlpTermux/master/termux-url-opener -P /data/data/com.termux/files/home/bin
         cd /data/data/com.termux/files/home/bin
-        chmod +x youtubedlp-url-opener
+        chmod +x termux-url-opener
           clear
 
 echo -e $Y$L"\n Finishing configuration... \n"$N
