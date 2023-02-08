@@ -9,7 +9,7 @@
 &nbsp;
 
 ## What is YouTubedlpOnTermux
-YouTubedlpOnTermux is a script that automates the process of installing and configuring [youtube-dlp](https://github.com/yt-dlp/yt-dlp) within [Termux](https://termux.dev/en/). Simply; once installed you can download YouTube videos/audio by using the share button underneath the video/audio you want.
+YouTubedlpOnTermux is a script that automates the process of installing and configuring [youtube-dlp](https://github.com/yt-dlp/yt-dlp#readme) within [Termux](https://termux.dev/en/). Simply; once installed you can download YouTube videos/audio by using the share button underneath the video/audio you want.
 
 ## Where and how are files saved
 The script creates the following directories on Termux:
