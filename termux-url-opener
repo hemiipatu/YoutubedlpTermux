@@ -85,7 +85,7 @@ do
         ;;
         
         7)
-            echo "--xff default --yes-playlist --no-mtime -o /data/data/com.termux/files/home/storage/shared/Download/YouTube-dlp/%(title)s.%(ext)s -f \"bestvideo[height<=2160][ext=mp4]+bestaudio[ext=m4a]\"" > ~/.config/yt-dlp/config
+            echo "--xff default --yes-playlist --no-mtime -o /data/data/com.termux/files/home/storage/shared/Download/YouTube-dlp/%(title)s.%(ext)s" > ~/.config/yt-dlp/config
             yt-dlp $1
             echo -e $G"\n   Finished...\n"$N
             sleep 1
